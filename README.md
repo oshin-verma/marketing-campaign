@@ -2,7 +2,7 @@
 
 This project analyzes the effectiveness of marketing campaigns using **data analytics**, **Python automation**, and **interactive BI dashboards**.  
 The goal was to:  
-- Identify key performance indicators (**KPIs**).  
+- Identify key performance indicators (KPIs) which are Return of investment(ROI),cost per acquistion(CPA),Profit and Loss Evaluation, and Lead Generation
 - Streamline data workflows.  
 - Provide actionable insights to improve campaign performance.  
 
